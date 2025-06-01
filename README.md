@@ -1,0 +1,1 @@
+Describe the Triangle class. Take the lengths of the triangle's sides as properties. Implement a method that will return the area of ​​this triangle. Create several objects of this class and test them.
